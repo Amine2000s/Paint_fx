@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="506.0" prefWidth="793.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane fx:id="tools_Pane" prefHeight="506.0" prefWidth="126.0">
+         <children>
+            <MFXButton fx:id="brush_Button" buttonType="RAISED" layoutX="31.0" layoutY="14.0" prefHeight="52.0" prefWidth="65.0" text="paint_brush" />
+         </children>
+      </Pane>
+      <Pane fx:id="canvas_Pane" layoutX="126.0" prefHeight="506.0" prefWidth="666.0" />
+   </children>
+</AnchorPane>
