@@ -3,9 +3,9 @@ A paint app in Javafx where you can use a brush tool and draw whatever you like 
 
 ## technologies 
 
-Programming language : Java 19.0.2 \n
-Framework : Javafx , Scene Builder \n
-Build tool : Apache Maven 3.9.4 \n
+- Programming language : Java 19.0.2 
+- Framework : Javafx , Scene Builder 
+- Build tool : Apache Maven 3.9.4 
 
 ## upcoming features 
 
